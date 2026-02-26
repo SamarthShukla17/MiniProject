@@ -1,4 +1,7 @@
-# 3D Fluid Simulation — Squad A Physics Engine
+# Read the guide.md provided for your reference!
+Each member's work is defined there. And what has been accomplished till now.
+
+## 3D Fluid Simulation — Squad A Physics Engine
 
 A 32³ MAC grid fluid simulator implementing the "Stable Fluids" algorithm (Jos Stam, 1999).
 Built for CPU with NumPy vectorization. No GPU required.
