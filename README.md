@@ -1,4 +1,6 @@
-# Read the guide.md provided for your reference!
+# Introduction
+
+Read the readme.md doc second, read this one first! ;) 
 Each member's work is defined there. And what has been accomplished till now.
 
 For starting to contribute:
